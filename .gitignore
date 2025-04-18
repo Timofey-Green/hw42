@@ -18,7 +18,8 @@ build/
 *.ipr
 out/
 /caches/
-/deamon/
+**/daemon*
+daemon
 *.tmp
 /native/
 
