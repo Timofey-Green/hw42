@@ -17,6 +17,10 @@ build/
 *.iml
 *.ipr
 out/
+/caches/
+/deamon/
+*.tmp
+/native/
 
 ### NetBeans ###
 /nbproject/private/
